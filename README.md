@@ -1,4 +1,4 @@
-# Cybersecurity_Bot
+# Cybersecurity_Awareness_Bot
 
 ## Overview
 
